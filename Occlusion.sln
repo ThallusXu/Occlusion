@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geometry", "Geometry\Geometry.csproj", "{27DB8934-DEF8-414F-9F79-86BA47C0657D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometryTest", "GeometryTest\GeometryTest.csproj", "{80B457AB-59DB-404E-BEDD-EDBB79F5766B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Occlusion", "Occlusion\Occlusion.csproj", "{7B4C1A04-1EC1-4B64-8233-AC4E270D6E22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27DB8934-DEF8-414F-9F79-86BA47C0657D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27DB8934-DEF8-414F-9F79-86BA47C0657D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27DB8934-DEF8-414F-9F79-86BA47C0657D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27DB8934-DEF8-414F-9F79-86BA47C0657D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80B457AB-59DB-404E-BEDD-EDBB79F5766B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80B457AB-59DB-404E-BEDD-EDBB79F5766B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80B457AB-59DB-404E-BEDD-EDBB79F5766B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80B457AB-59DB-404E-BEDD-EDBB79F5766B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B4C1A04-1EC1-4B64-8233-AC4E270D6E22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B4C1A04-1EC1-4B64-8233-AC4E270D6E22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B4C1A04-1EC1-4B64-8233-AC4E270D6E22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B4C1A04-1EC1-4B64-8233-AC4E270D6E22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
